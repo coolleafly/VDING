@@ -1,5 +1,5 @@
 # VDING
-Precision Analysis Program for Dental Implant
+Precision Analysis Program for Dental Implants
 
 ## Prerequisites
 
@@ -10,15 +10,15 @@ Precision Analysis Program for Dental Implant
 
 ## Usage
 
-### Step1: fill in "implantData.xlsx" 
+### Step1: fill in the "implantData.xlsx" 
 
-it is input file. it include settings and data for accuracy analysis.
+It is an input file. It include settings and data for accuracy analysis.
 
 Among them, it is easy to define:
 - the number of implants
 - the number of landmarks per implant
-- the number of implant point of concern
-- whether screw or abutment are included in the post surgery image
+- the number of points of concern on the implant
+- whether screw or abutment are included in the postoperative image
 
 
 ### Step2: Run program
@@ -27,8 +27,8 @@ Among them, it is easy to define:
 
 ### Step3: get result
 - out3* shows result of precision analysis and system error
-- out1* shows points for establishing coordinate systems, and compute the coordinates of each point(Landmark or implant endpoints) in the new coordinate system
-- out7* shows selection process of choose key point of establishing coordinate systems 
+- out1* shows the points for establishing coordinate systems, and the coordinates of each point(Landmarks or implant endpoints) in the new coordinate system
+- out7* shows the selection process of key points for establishing the coordinate systems 
 
 ## More detail in our article, please wait it accepted and published.
 (Ye Liang, Shanshan Yuan and etc.)
