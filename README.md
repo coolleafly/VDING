@@ -31,3 +31,4 @@ Among them, it is easy to define:
 - out7* shows selection process of choose key point of establishing coordinate systems 
 
 ## More detail in our article, please wait it accepted and published.
+(Ye Liang, Shanshan Yuan and etc.)
