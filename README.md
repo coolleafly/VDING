@@ -22,13 +22,13 @@ Among them, it is easy to define:
 
 
 ### Step2: Run program
-    $ python main10.0.py
+    $ python main10.1.py
 
 
 ### Step3: get result
-- out3* shows result of precision analysis and system error
-- out1* shows the points for establishing coordinate systems, and the coordinates of each point(Landmarks or implant endpoints) in the new coordinate system
-- out7* shows the selection process of key points for establishing the coordinate systems 
+- out1* shows result of precision analysis and system error
+- out2* shows the points for establishing coordinate systems, and the coordinates of each point(Landmarks or implant endpoints) in the new coordinate system
+- out3* shows the selection process of key points for establishing the coordinate systems 
 
 ## More detail in our article, please wait it accepted and published.
-(Ye Liang, Shanshan Yuan and etc.)
+(Ye Liang, Shanshan Yuan, Jingjing Huan and etc.)
