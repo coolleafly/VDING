@@ -36,10 +36,11 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225823
 Published: December 3, 2019
 https://doi.org/10.1371/journal.pone.0225823
 
-Authors:
+Mail: Liangye@csu.edu.cn
 
+
+Authors:
 Ye Liang , ShanShan Yuan , JingJing Huan, HuiXin Wang, YiYi Zhang, ChangYun Fang* , Jia-Da Li* 
 
-*Corresponding Author
+*Corresponding Author:ChangYun Fang , Jia-Da Li
 
-Liangye@csu.edu.cn
