@@ -30,5 +30,14 @@ Among them, it is easy to define:
 - out2* shows the points for establishing coordinate systems, and the coordinates of each point(Landmarks or implant endpoints) in the new coordinate system
 - out3* shows the selection process of key points for establishing the coordinate systems 
 
-## More detail in our article, please wait it accepted and published.
-(Ye Liang, Shanshan Yuan, Jingjing Huan and etc.)
+## More detail in our article, accepted and published By PLOS ONE.
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0225823
+Published: December 3, 2019
+https://doi.org/10.1371/journal.pone.0225823
+
+Authors:
+Ye Liang , ShanShan Yuan , JingJing Huan, HuiXin Wang, YiYi Zhang, ChangYun Fang* , Jia-Da Li* 
+*Corresponding Author
+
+Liangye@csu.edu.cn
